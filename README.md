@@ -1,5 +1,5 @@
 
-#  Sobre mim:  
+#  Sobre:  
 <p>Meu nome é George, sou entusiasta da tecnologia e inovação para construção de soluções para a vida das pessoas.</p>
 
 <p>Formado em Arquitetura e Urbanismo e atualmente em migração de carreira para Dev, iniciei meu contato mais direto com programação em 2022, na busca por soluções para otimização de tarefas na minha carreira anterior e desde então meu interesse só fez aumentar. Em 2023, iniciei minha jornada no mundo do Desenvolvimento de Software com foco em Back-end e venho me dedicando cada vez mais ao aprendizado de JavaScript, Node.js, SQL e Git.</p> 
