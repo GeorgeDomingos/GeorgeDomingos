@@ -5,10 +5,10 @@
 <p>Formado em Arquitetura e Urbanismo e atualmente em migração de carreira para Dev, iniciei meu contato mais direto com programação em 2022, na busca por soluções para otimização de tarefas na minha carreira anterior e desde então meu interesse só fez aumentar. Em 2023, iniciei minha jornada no mundo do Desenvolvimento de Software com foco em Back-end e venho me dedicando cada vez mais ao aprendizado de JavaScript, Node.js, SQL e Git.</p> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=noctis_minimus&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgeDomingos&theme=noctis_minimus&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=noctis_minimus&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeDomingos&layout=compact&theme=noctis_minimus&count_private=true" />
 </a>
 
 
