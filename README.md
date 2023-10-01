@@ -4,14 +4,6 @@
 
 <p>Formado em Arquitetura e Urbanismo e atualmente em migração de carreira para Dev, iniciei meu contato mais direto com programação em 2022, na busca por soluções para otimização de tarefas na minha carreira anterior e desde então meu interesse só fez aumentar. Em 2023, iniciei minha jornada no mundo do Desenvolvimento de Software com foco em Back-end e venho me dedicando cada vez mais ao aprendizado de JavaScript, Node.js, SQL e Git.</p> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgeDomingos&theme=noctis_minimus&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeDomingos&layout=compact&theme=noctis_minimus&count_private=true" />
-</a>
-
-
 <h5 align="left">🌐 Contato:</h5>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-domingos/)
@@ -35,6 +27,15 @@
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
+<a href="https://github.com/GeorgeDomingos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgeDomingos&theme=noctis_minimus&count_private=true" />
+</a>
+<a href="https://github.com/GeorgeDomingos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeDomingos&layout=compact&theme=noctis_minimus&count_private=true" />
+</a>
+
 
 <div align="center">
 <br><p align="centre"><b>Visitantes:</b></p>  
